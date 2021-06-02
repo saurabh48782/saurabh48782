@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/44601120/120538535-4450ee80-c404-11eb-945d-35737d9abba0.gif" height="275" width="1000">
+
 <h1>Hi/ Hello/ Hola/ सुप्रभात/ नमस्कार <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> 
  Welcome to Saurabh Gupta's Github profile.</h1>
  
