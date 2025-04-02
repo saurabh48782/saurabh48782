@@ -21,25 +21,19 @@
 [<img align="left" alt="Saurabh Gupta | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Saurabh Gupta | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 [<img align="left" alt="Saurabh Gupta | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Saurabh Gupta | Hackerrank" width="125px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
+[<img align="left" alt="Saurabh Gupta | HackerEarth" width="125px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][HackerEarth]
 
 
 </br>
-
-<br>
-<br>  
-<p>
-    <img class="center" alt="Saurabh Gupta's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/saurabh48782"/>
-</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Programming Languages:**
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge"/>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
 **ML/DL Tools and Libraries:**
 
@@ -48,12 +42,17 @@
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src= "https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=black" height="30" width="120"/>
-<img src= "https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=orange" height="30" width="100"/>
+<img alt="Scikit-learn" src= "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-**Web Frameworks:**
+**Other Tools/Frameworks:**
 
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+<img alt="DVC" src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Metabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 
 **Hosting Platforms:**
 
@@ -61,8 +60,8 @@
 
 **Operating System:**
 
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 <p align="center">
 <a href="https://github.com/saurabh48782">
@@ -77,3 +76,5 @@
 [linkedin]: https://www.linkedin.com/in/saurabh48782/
 [Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=saurabh48782@gmail.com&su=SUBJECT&body=BODY&tf=1
 [Instagram]: https://www.instagram.com/saurabh_48782/
+[Hackerrank]: https://www.hackerrank.com/profile/saurabh48782
+[HackerEarth]: https://www.hackerearth.com/@saurabh48782/
