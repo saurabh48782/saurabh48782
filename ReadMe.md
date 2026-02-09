@@ -1,74 +1,129 @@
-<img width="3808" height="1120" alt="Gemini_Generated_Image_7ph2aq7ph2aq7ph2" src="https://github.com/user-attachments/assets/4f6efc64-cd0e-4c44-aaf3-c344648fd34e" />
+<div align="center">
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/4f6efc64-cd0e-4c44-aaf3-c344648fd34e" />
+</div>
 
-<h1>Hi/ Hello/ Hola/ सुप्रभात/ नमस्कार <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> 
- Welcome to Saurabh Gupta's Github profile.</h1>
- 
-<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" height="300" width="320">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Saurabh Gupta
+</h1>
 
-**𝐒𝐚𝐮𝐫𝐚𝐛𝐡 𝐆𝐮𝐩𝐭𝐚 𝐢𝐬 𝐚 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐌𝐋 𝐚𝐧𝐝 𝐃𝐋 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐚𝐧𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 𝐰𝐡𝐨 𝐡𝐚𝐬 𝐩𝐮𝐫𝐬𝐮𝐞𝐝 𝐡𝐢𝐬 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫𝐬 𝐢𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐟𝐫𝐨𝐦 𝐋𝐨𝐯𝐞𝐥𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, 𝐏𝐮𝐧𝐣𝐚𝐛**
+<h3 align="center">Data Science Engineer | Production ML & GenAI Systems</h3>
+<p align="center">NLP • Computer Vision • MLOps • AWS</p>
 
-- 🔭 𝐻𝑒 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑤𝑜𝑟𝑘𝑠 𝑎𝑡 - Get My Parking 𝑎𝑠 𝑎𝑛 Associate Data Scientist
-- 🌱 𝐻𝑒 𝑖𝑠 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 - 𝐷𝑒𝑒𝑝 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔, 𝑁𝐿𝑃 𝑎𝑛𝑑 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑉𝑖𝑠𝑖𝑜𝑛
-- 👯 𝐻𝑒 𝑖𝑠 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝑡𝑜𝑝𝑖𝑐𝑠 𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑡𝑜 - 𝐷𝑆, 𝑀𝐿, 𝐷𝐿, 𝑁𝐿𝑃 𝑎𝑛𝑑 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑉𝑖𝑠𝑖𝑜𝑛
-- ⚡ 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡: 𝐻𝑒 𝑙𝑜𝑣𝑒𝑠 𝑡𝑜 𝑤𝑟𝑖𝑡𝑒 𝑡𝑒𝑐ℎ 𝑎𝑟𝑡𝑖𝑐𝑙𝑒𝑠 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝑤𝑜𝑟𝑘𝑠 𝑎𝑠 𝑎 𝑓𝑟𝑒𝑒𝑙𝑎𝑛𝑐𝑒 𝑡𝑒𝑐ℎ𝑛𝑖𝑐𝑎𝑙 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑤𝑟𝑖𝑡𝑒𝑟 𝑓𝑜𝑟 𝑚𝑎𝑛𝑦 𝑜𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑠
+---
 
+### 👨‍💻 About Me
 
-<br>
-(｡◕‿◕｡) 𝐻𝑒 ℎ𝑎𝑠 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, ℎ𝑒'𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
+<img align="right" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" height="250" width="270">
 
-<img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
+I'm a **Data Science Engineer** with **4.5+ years** of experience **building ML & GenAI systems that ship to production**—not just notebooks, but solutions that create **measurable business impact**.
 
-[<img align="left" alt="Saurabh Gupta | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Saurabh Gupta | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-[<img align="left" alt="Saurabh Gupta | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Saurabh Gupta | Hackerrank" width="125px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
-[<img align="left" alt="Saurabh Gupta | HackerEarth" width="125px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][HackerEarth]
+Currently at **Dodge Construction Network**, engineering automated GenAI pipelines that reduce manual workflows and improve data quality at scale.
 
+**🎯 Core Expertise:**
+- 🤖 **GenAI & NLP:** RAG architectures, Agentic workflows, LangChain, Ollama
+- ⚙️ **Production MLOps:** AWS (ECS, Fargate, SageMaker), Docker, FastAPI
+- 👁️ **Computer Vision:** Siamese Networks, CNNs, Transfer Learning
+- 📊 **Data Engineering:** SQL/ETL pipelines, PowerBI, Stakeholder Analytics
 
-</br>
+**🏆 Competitive ML Achievements:**
+- 🥇 **1st / 1600+** — HackerEarth ML Challenge (World Water Day, 2025)
+- 🥈 **5th / 1200+** — HackerEarth ML Challenge (World Earth Day, 2025)
+- 🏅 **Value Evangelist Award** — Get My Parking (2024)
+- 🎯 **Go Getter Award** — Get My Parking (2023)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**💼 Impact Delivered:**
+- 📉 Reduced manual workflows by **40%+**
+- 📈 Improved model accuracy by **25%+**
+- ⚡ Scaled systems to **100K+ daily predictions**
 
-**Programming Languages:**
+**💡 Currently Exploring:** Advanced Agentic AI, RAG architectures, Scalable MLOps patterns
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge"/>
-<img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br clear="right"/>
 
-**ML/DL Tools and Libraries:**
+---
 
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%2300599C?style=for-the-badge&logo=SciPy&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="Scikit-learn" src= "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+### 🛠️ Tech Stack
 
-**Other Tools/Frameworks:**
+#### **Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-<img alt="DVC" src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Metabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+#### **ML/DL & GenAI Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
+#### **Data Science & Analytics**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**Hosting Platforms:**
+#### **MLOps & Deployment**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+#### **Version Control & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Operating System:**
+#### **Cloud & BI Tools**
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<br>
+#### **Operating Systems**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+---
 
+### 📊 GitHub Analytics
 
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh48782&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/saurabh48782/
-[Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=saurabh48782@gmail.com&su=SUBJECT&body=BODY&tf=1
-[Instagram]: https://www.instagram.com/saurabh_48782/
-[Hackerrank]: https://www.hackerrank.com/profile/saurabh48782
-[HackerEarth]: https://www.hackerearth.com/@saurabh48782/
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabh48782/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saurabh48782@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/saurabh48782">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.hackerearth.com/@saurabh48782">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  </a>
+  <a href="https://www.instagram.com/saurabh_48782/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>💼 Open to: Senior Data Scientist | ML Engineer | GenAI/MLOps roles</i>
+</p>
