@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/44601120/120538535-4450ee80-c404-11eb-945d-35737d9abba0.gif" height="275" width="1000">
+<img width="3808" height="1120" alt="Gemini_Generated_Image_7ph2aq7ph2aq7ph2" src="https://github.com/user-attachments/assets/4f6efc64-cd0e-4c44-aaf3-c344648fd34e" />
 
 <h1>Hi/ Hello/ Hola/ सुप्रभात/ नमस्कार <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> 
  Welcome to Saurabh Gupta's Github profile.</h1>
@@ -62,12 +62,6 @@
 
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-
-<p align="center">
-<a href="https://github.com/saurabh48782">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh48782&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh48782&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
-</a></p>
 <br>
 
 
